@@ -12,3 +12,6 @@ https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sha
 
 Практическая работа фитнес
 https://drive.google.com/drive/folders/1tKsw19u7wpAk-bgGfVF-8IprQfHMm1CI 
+
+Ответы на вопросы 18.10.2022
+https://docs.google.com/document/d/1gdoKcs53-88r8sDosUxerHZll_NORDmLrQnoTA6rpmo/edit?usp=drivesdk 
