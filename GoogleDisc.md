@@ -15,3 +15,6 @@ https://drive.google.com/drive/folders/1tKsw19u7wpAk-bgGfVF-8IprQfHMm1CI
 
 Ответы на вопросы 18.10.2022
 https://docs.google.com/document/d/1gdoKcs53-88r8sDosUxerHZll_NORDmLrQnoTA6rpmo/edit?usp=drivesdk 
+
+Абоба
+https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Сессия%201/productsale_s_import.xlsx 
