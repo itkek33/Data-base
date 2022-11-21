@@ -18,3 +18,6 @@ https://docs.google.com/document/d/1gdoKcs53-88r8sDosUxerHZll_NORDmLrQnoTA6rpmo/
 
 Абоба
 https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Сессия%201/productsale_s_import.xlsx 
+
+дем экз
+https://docs.google.com/spreadsheets/d/1Ji8pA_tskI71fWmfQMFDoSqDGRpF7jgS/edit?usp=share_link&ouid=114987831998259542559&rtpof=true&sd=true
