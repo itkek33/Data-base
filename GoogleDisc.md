@@ -24,3 +24,5 @@ https://docs.google.com/spreadsheets/d/10m2HkCsUTZdclpswj1VK79QJ50i1V5vR/edit?us
 
 
 Питер на убунту https://docs.google.com/document/d/1JoU2MalD9bEOjA_EgbnDrB-Fn3OyvN5vSmplo70b--0/edit?usp=drivesdk 
+
+Степик sqllite https://docs.google.com/document/d/1tljTxuKKo4FlR1-6inuZFja3PdowL-oU_BeYOfX5u2I/edit?usp=drivesdk 
