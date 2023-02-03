@@ -21,3 +21,6 @@ https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Г�
 
 дем экз
 https://docs.google.com/spreadsheets/d/10m2HkCsUTZdclpswj1VK79QJ50i1V5vR/edit?usp=share_link&ouid=114987831998259542559&rtpof=true&sd=true
+
+
+Питер на убунту https://docs.google.com/document/d/1JoU2MalD9bEOjA_EgbnDrB-Fn3OyvN5vSmplo70b--0/edit?usp=drivesdk 
